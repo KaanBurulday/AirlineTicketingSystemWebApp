@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -131,10 +135,6 @@
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -190,20 +190,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TicketController.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\TicketController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\TicketController.cs",
-              "RelativeToolTip": "Controllers\\TicketController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:44:06.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BuyTicketViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\BuyTicketViewModel.cs",
               "RelativeDocumentMoniker": "Models\\BuyTicketViewModel.cs",
@@ -211,12 +198,11 @@
               "RelativeToolTip": "Models\\BuyTicketViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T12:36:54.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T12:36:54.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -224,12 +210,11 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAWwBcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:14:16.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:14:16.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TicketDto.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\TicketDto.cs",
               "RelativeDocumentMoniker": "Models\\Dto\\TicketDto.cs",
@@ -237,12 +222,11 @@
               "RelativeToolTip": "Models\\Dto\\TicketDto.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:29:09.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:29:09.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TicketHistory.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\TicketHistory.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\TicketHistory.cshtml",
@@ -250,12 +234,11 @@
               "RelativeToolTip": "Views\\Account\\TicketHistory.cshtml",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T09:28:16.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:28:16.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TicketViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\TicketViewModel.cs",
               "RelativeDocumentMoniker": "Models\\TicketViewModel.cs",
@@ -263,25 +246,49 @@
               "RelativeToolTip": "Models\\TicketViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:42:47.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:42:47.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAvwFQAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T15:13:19.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T15:15:03.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:44:06.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BuyTicket.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Ticket\\BuyTicket.cshtml",
               "RelativeDocumentMoniker": "Views\\Ticket\\BuyTicket.cshtml",
@@ -289,12 +296,11 @@
               "RelativeToolTip": "Views\\Ticket\\BuyTicket.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T11:44:36.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T11:44:36.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FlightController.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\FlightController.cs",
               "RelativeDocumentMoniker": "Controllers\\FlightController.cs",
@@ -302,12 +308,11 @@
               "RelativeToolTip": "Controllers\\FlightController.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAgwFcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:37:08.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:37:08.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "Models\\Dto\\UserDto.cs",
@@ -315,12 +320,11 @@
               "RelativeToolTip": "Models\\Dto\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:07:29.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T03:07:29.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -328,12 +332,11 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:24:32.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:24:32.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FlightDto.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\FlightDto.cs",
               "RelativeDocumentMoniker": "Models\\Dto\\FlightDto.cs",
@@ -341,12 +344,11 @@
               "RelativeToolTip": "Models\\Dto\\FlightDto.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAwwBgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T17:24:26.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T17:24:26.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AddFlightViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\AddFlightViewModel.cs",
               "RelativeDocumentMoniker": "Models\\AddFlightViewModel.cs",
@@ -354,12 +356,11 @@
               "RelativeToolTip": "Models\\AddFlightViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:37:52.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:37:52.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -367,12 +368,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:14:08.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:14:08.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FlightFilterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterViewModel.cs",
               "RelativeDocumentMoniker": "Models\\FlightFilterViewModel.cs",
@@ -380,12 +380,11 @@
               "RelativeToolTip": "Models\\FlightFilterViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T04:34:22.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T04:34:22.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -393,12 +392,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:23:38.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:23:38.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -406,12 +404,11 @@
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:24:24.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:24:24.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Flights.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\Flights.cshtml",
               "RelativeDocumentMoniker": "Views\\Flight\\Flights.cshtml",
@@ -419,12 +416,11 @@
               "RelativeToolTip": "Views\\Flight\\Flights.cshtml",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAEgAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T04:12:37.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T04:12:37.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AddFlight.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\AddFlight.cshtml",
               "RelativeDocumentMoniker": "Views\\Flight\\AddFlight.cshtml",
@@ -432,12 +428,11 @@
               "RelativeToolTip": "Views\\Flight\\AddFlight.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAADsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T16:40:34.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:40:34.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -445,12 +440,11 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-12T10:45:23.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T10:45:23.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
@@ -458,12 +452,11 @@
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:15:28.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:15:28.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_FlightPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_FlightPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_FlightPartial.cshtml",
@@ -471,12 +464,11 @@
               "RelativeToolTip": "Views\\Shared\\_FlightPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T18:33:54.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T18:33:54.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -484,12 +476,11 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:12:27.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:12:27.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -497,12 +488,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:23:48.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:23:48.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "FlightFilterModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterModel.cs",
               "RelativeDocumentMoniker": "Models\\FlightFilterModel.cs",
@@ -510,12 +500,11 @@
               "RelativeToolTip": "Models\\FlightFilterModel.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T04:09:54.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T04:09:54.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
@@ -523,12 +512,11 @@
               "RelativeToolTip": "Models\\LoginViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:43:24.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:43:24.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -536,12 +524,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:37:54.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T16:37:54.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -549,12 +536,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:12:49.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:12:49.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\UserService.cs",
               "RelativeDocumentMoniker": "Source\\UserService.cs",
@@ -562,12 +548,11 @@
               "RelativeToolTip": "Source\\UserService.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:17:47.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T03:17:47.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "JwtTokenService.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\JwtTokenService.cs",
               "RelativeDocumentMoniker": "Source\\JwtTokenService.cs",
@@ -575,12 +560,11 @@
               "RelativeToolTip": "Source\\JwtTokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:09:21.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T03:09:21.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IJwtTokenService.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IJwtTokenService.cs",
               "RelativeDocumentMoniker": "Source\\Interfaces\\IJwtTokenService.cs",
@@ -588,12 +572,11 @@
               "RelativeToolTip": "Source\\Interfaces\\IJwtTokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:09:55.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T03:09:55.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Source\\Interfaces\\IUserService.cs",
@@ -601,21 +584,7 @@
               "RelativeToolTip": "Source\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:18:50.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-11T15:15:03.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T03:18:50.766Z"
             },
             {
               "$type": "Document",
@@ -627,8 +596,7 @@
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T02:03:14.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T02:03:14.494Z"
             },
             {
               "$type": "Document",

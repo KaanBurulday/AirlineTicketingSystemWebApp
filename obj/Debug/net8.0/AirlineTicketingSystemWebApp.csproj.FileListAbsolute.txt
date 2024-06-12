@@ -147,3 +147,4 @@ C:\Users\kaanb\source\repos\AirlineTicketingSystemWebApp\obj\Debug\net8.0\ref\Ai
 C:\Users\kaanb\source\repos\AirlineTicketingSystemWebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\kaanb\source\repos\AirlineTicketingSystemWebApp\bin\Debug\net8.0\System.Net.Http.Formatting.dll
 C:\Users\kaanb\source\repos\AirlineTicketingSystemWebApp\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\kaanb\source\repos\AirlineTicketingSystemWebApp\obj\Debug\net8.0\AirlineTicketingSystemWebApp.sourcelink.json
