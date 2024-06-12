@@ -1,0 +1,69 @@
+﻿@using AirlineTicketingSystemWebApp.Models;
+@model RegisterViewModel;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+<h2>Register Page</h2>
+
+<h4>Already have an account? <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Login">Click Here!</a></h4>
+
+@if (!String.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<form asp-action="Register" asp-controller="Account" method="post">
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" value="@Model?.Email" required/>
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Password">Password</label>
+        <input type="password" class="form-control" id="Password" name="Password" required />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="ConfirmPassword">Confirm Password</label>
+        <input type="password" class="form-control" id="ConfirmPassword" name="ConfirmPassword" required />
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model?.Name" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Surname">Surname</label>
+        <input type="text" class="form-control" id="Surname" name="Surname" value="@Model?.Surname" required />
+        <span asp-validation-for="Surname" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Birthdate">Birthdate</label>
+        <input type="date" class="form-control" id="Birthdate" name="Birthdate" value="@Model?.Birthdate" required />
+        <span asp-validation-for="Birthdate" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Nation">Nation</label>
+        <input type="text" class="form-control" id="Nation" name="Nation" value="@Model?.Nation" required />
+        <span asp-validation-for="Nation" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="PassportNumber">Passport Number</label>
+        <input type="text" class="form-control" id="PassportNumber" name="PassportNumber" value="@Model?.PassportNumber" required />
+        <span asp-validation-for="PassportNumber" class="text-danger"></span>
+    </div>
+    <button type="submit" value="Register" class="btn btn-primary">Register</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

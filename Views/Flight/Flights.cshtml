@@ -1,0 +1,81 @@
+﻿@using AirlineTicketingSystemWebApp.Models;
+@model FlightFilterViewModel
+@{
+    ViewData["Title"] = "Flights";
+}
+
+<h1>Flights</h1>
+
+@if (!String.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<!-- Search Form -->
+@* <form method="post" asp-action="Flights" class="mb-3">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group">
+                <label asp-for="DepartureAirportCode">Departure Airport Code</label>
+                <input asp-for="DepartureAirportCode" class="form-control" />
+            </div>
+        </div>
+        <!-- Add other search criteria fields here -->
+        <div class="col-md-3">
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary mt-4">Search</button>
+            </div>
+        </div>
+    </div>
+</form> *@
+
+<!-- Flight List -->
+<table style="width: 100% !important;">
+    <thead>
+        <tr>
+            <th>Code</th>
+            <th>Departure Date</th>
+            <th>Arrival Date</th>
+            <th>Departure Airport Code</th>
+            <th>Arrival Airport Code</th>
+            <th>Plane Code</th>
+            <th>Date Created</th>
+            <th>Total Miles</th>
+            <th>Total Minutes</th>
+            <th>Available Seat Count</th>
+            <th>Occupied Seats</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var flight in Model.flightDtos)
+        {
+            <tr>
+                <td>@flight.Code</td>
+                <td>@flight.DepartureDate</td>
+                <td>@flight.ArrivalDate</td>
+                <td>@flight.DepartureAirportCode</td>
+                <td>@flight.ArrivalAirportCode</td>
+                <td>@flight.PlaneCode</td>
+                <td>@flight.DateCreated</td>
+                <td>@flight.TotalMiles</td>
+                <td>@flight.TotalMinutes</td>
+                <td>@flight.AvailableSeatCount</td>
+                <td>@string.Join(", ", flight.OccupiedSeats)</td>
+                <td>
+                    <form class="form-inline" asp-area="" asp-controller="Ticket" asp-action="BuyTicket" method="get">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="Code" value="@flight.Code" />
+                        <button type="submit" class="btn btn-outline btn-success">Buy Ticket</button>
+                    </form>
+                    @* <button type="button" id="buy-ticket-button" class="btn btn-outline btn-success"
+                            data-item-code="@flight.Code", value="Buy Ticket">
+                        Buy Ticket
+                    </button> *@
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

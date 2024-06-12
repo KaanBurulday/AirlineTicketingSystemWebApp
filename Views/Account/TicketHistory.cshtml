@@ -1,0 +1,46 @@
+﻿@using AirlineTicketingSystemWebApp.Models;
+@model TicketViewModel
+@{
+    ViewData["Title"] = "Ticket History";
+}
+
+<h1>Ticket History</h1>
+
+@if (!String.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
+<!-- Ticket List -->
+<table style="width: 100% !important">
+    <thead>
+        <tr>
+            <th>Code</th>
+            <th>Flight Code</th>
+            <th>Purchase Date</th>
+            <th>Buy With Miles Points</th>
+            <th>Price</th>
+            <th>Seat Numbers</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ticket in Model.Tickets)
+        {
+            <tr>
+                <td>@ticket.Code</td>
+                <td>@ticket.FlightCode</td>
+                <td>@ticket.DateCreated</td>
+                <td>@ticket.BuyWithMilesPoints</td>
+                <td>@ticket.Price</td>
+                <td>
+                    @string.Join(", ", ticket.SeatNumbers)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

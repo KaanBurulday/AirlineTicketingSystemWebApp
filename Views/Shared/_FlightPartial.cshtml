@@ -1,0 +1,20 @@
+﻿@using AirlineTicketingSystemWebApp.Model;
+@using Microsoft.AspNetCore.Identity;
+@inject SignInManager<User> SignInManager;
+@inject UserManager<User> UserManager;
+
+<li class="nav-item">
+    <a class="nav-link text-dark" asp-area="" asp-controller="Flight" asp-action="Flights">Flights</a>
+</li>
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="nav-item">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Flight" asp-action="AddFlight">Add Flight</a>
+    </li>
+    @if (User.IsInRole("Admin"))
+    {
+        <li class="nav-item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="TicketHistory">Ticket History</a>
+        </li>
+    }
+}
