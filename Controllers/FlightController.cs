@@ -17,11 +17,11 @@ namespace AirlineTicketingSystemWebApp.Controllers
         private IUserService _userService;
         private ILogger<FlightController> _logger;
         private readonly HttpClient _httpClient;
-        private readonly string _insertFlightLink = "http://localhost:5156/api/v1/Flight/POST";
-        private readonly string _getAirportsLink = "http://localhost:5156/api/v1/Airport/GET";
-        private readonly string _getPlanesLink = "http://localhost:5156/api/v1/Plane/GET";
-        private readonly string _getFilteredFlightsLink = "http://localhost:5156/api/v1/Flight/POST/Filtered";
-        private readonly string _getFlightsLink = "http://localhost:5156/api/v1/Flight/GET";
+        private readonly string _insertFlightLink = "http://airlineticketingsystemapi.azurewebsites.net/api/v1/Flight/POST";
+        private readonly string _getAirportsLink = "http://airlineticketingsystemapi.azurewebsites.net/api/v1/Airport/GET";
+        private readonly string _getPlanesLink = "http://airlineticketingsystemapi.azurewebsites.net/api/v1/Plane/GET";
+        private readonly string _getFilteredFlightsLink = "http://airlineticketingsystemapi.azurewebsites.net/api/v1/Flight/POST/Filtered";
+        private readonly string _getFlightsLink = "http://airlineticketingsystemapi.azurewebsites.net/api/v1/Flight/GET";
 
         public FlightController(ILogger<FlightController> logger, 
                                 HttpClient httpClient, 

@@ -13,7 +13,7 @@ public class AccountController : Controller
     private readonly UserManager<User> _userManager;
     private readonly SignInManager<User> _signInManager;
 
-    private readonly string _ticketHistoryLink = "http://localhost:5156/api/v1/Ticket/GET/USER";
+    private readonly string _ticketHistoryLink = "http://airlineticketingsystemapi.azurewebsites.net/api/v1/Ticket/GET/USER";
 
     public AccountController(ILogger<AccountController> logger,
                                 HttpClient httpClient,

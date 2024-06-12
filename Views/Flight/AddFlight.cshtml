@@ -62,7 +62,7 @@
    
     async function fetchAirports() {
         try {
-            const response = await fetch("http://localhost:5156/api/v1/Airport/GET");
+            const response = await fetch("http://airlineticketingsystemapi.azurewebsites.net/api/v1/Airport/GET");
             if (!response.ok) {
                 throw new Error("Failed to fetch airports");
             }
@@ -75,8 +75,8 @@
 
     // Enable planes and arrival airports if code is not empty
     async function departureChange(departureAirportCode) {
-        const urlPlanes = `http://localhost:5156/api/v1/Airport/GET/${departureAirportCode}/Planes`;
-        const urlAirports = `http://localhost:5156/api/v1/Airport/GET/${departureAirportCode}/AvAirports`;
+        const urlPlanes = `http://airlineticketingsystemapi.azurewebsites.net/api/v1/Airport/GET/${departureAirportCode}/Planes`;
+        const urlAirports = `http://airlineticketingsystemapi.azurewebsites.net/api/v1/Airport/GET/${departureAirportCode}/AvAirports`;
         try {
             const responsePlane = await fetch(urlPlanes);
             if (!responsePlane.ok) {

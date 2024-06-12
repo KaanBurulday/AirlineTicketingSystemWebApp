@@ -210,7 +210,8 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAWwBcAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:14:16.849Z"
+              "WhenOpened": "2024-06-11T15:14:16.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -258,8 +259,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:13:19.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T15:13:19.14Z"
             },
             {
               "$type": "Document",
@@ -269,7 +269,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAACgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-11T15:15:03.011Z",
               "EditorCaption": ""
@@ -284,7 +284,8 @@
               "RelativeToolTip": "Controllers\\TicketController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:44:06.489Z"
+              "WhenOpened": "2024-06-12T11:44:06.489Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -308,7 +309,8 @@
               "RelativeToolTip": "Controllers\\FlightController.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAgwFcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:37:08.368Z"
+              "WhenOpened": "2024-06-11T16:37:08.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -428,7 +430,8 @@
               "RelativeToolTip": "Views\\Flight\\AddFlight.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAADsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T16:40:34.235Z"
+              "WhenOpened": "2024-06-11T16:40:34.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
