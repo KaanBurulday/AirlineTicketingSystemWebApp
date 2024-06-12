@@ -11,8 +11,8 @@ namespace AirlineTicketingSystemWebApp.Controllers
         private ILogger<FlightController> _logger;
         private readonly HttpClient _httpClient;
         private readonly UserManager<User> _userManager;
-        private readonly string _getFlightLink = "http://airlineticketingsystemapi.azurewebsites.net/api/v1/Flight/GET/CODE";
-        private readonly string _buyTicketLink = "http://airlineticketingsystemapi.azurewebsites.net/api/v1/Booking/BUY";
+        private readonly string _getFlightLink = "https://airlineticketingsystemapi.azurewebsites.net/api/v1/Flight/GET/CODE";
+        private readonly string _buyTicketLink = "https://airlineticketingsystemapi.azurewebsites.net/api/v1/Booking/BUY";
 
         public TicketController(ILogger<FlightController> logger,
                                 UserManager<User> userManager,

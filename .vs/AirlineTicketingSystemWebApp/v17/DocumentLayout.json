@@ -3,48 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\ticket\\buyticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\ticket\\buyticket.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\_flightpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\_flightpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\flight\\flights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\flight\\flights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\flight\\addflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\flight\\addflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\account\\tickethistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\account\\tickethistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\source\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\source\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\dto\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\dto\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\source\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\source\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\buyticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\buyticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\addflightviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\addflightviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\migrations\\20240611154405_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:migrations\\20240611154405_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\flightfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\flightfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\flightfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\flightfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\ticketviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\dto\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\dto\\ticketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,84 +151,12 @@
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\dto\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\addflightviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\addflightviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\flightfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\flightfilterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\flight\\flights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\flight\\flights.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\flight\\addflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\flight\\addflight.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\_flightpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\_flightpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\flightfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\flightfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\source\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\source\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\source\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\source\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:source\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,10 +165,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\Migrations\\20240611153036_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -159,24 +179,8 @@
       "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\Migrations\\20240611151648_FEv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20240611151648_FEv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|c:\\users\\kaanb\\source\\repos\\airlineticketingsystemwebapp\\migrations\\20240611154405_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5EA0E44-D0CB-4CCD-A801-51A7626FCABB}|AirlineTicketingSystemWebApp.csproj|solutionrelative:migrations\\20240611154405_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -190,7 +194,293 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T14:32:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:23:46.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:25:00.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:25:03.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuyTicket.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Ticket\\BuyTicket.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ticket\\BuyTicket.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Ticket\\BuyTicket.cshtml",
+              "RelativeToolTip": "Views\\Ticket\\BuyTicket.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:44:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:25:08.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAwFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:13:19.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T15:15:03.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:15:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:23:38.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_FlightPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_FlightPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_FlightPartial.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_FlightPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_FlightPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T18:33:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:23:48.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Flights.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\Flights.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flight\\Flights.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\Flights.cshtml",
+              "RelativeToolTip": "Views\\Flight\\Flights.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T04:12:37.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddFlight.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\AddFlight.cshtml",
+              "RelativeDocumentMoniker": "Views\\Flight\\AddFlight.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\AddFlight.cshtml",
+              "RelativeToolTip": "Views\\Flight\\AddFlight.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAE4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:40:34.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:24:32.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:24:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TicketHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\TicketHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\TicketHistory.cshtml",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\TicketHistory.cshtml",
+              "RelativeToolTip": "Views\\Account\\TicketHistory.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T09:28:16.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\UserService.cs",
+              "RelativeDocumentMoniker": "Source\\UserService.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\UserService.cs",
+              "RelativeToolTip": "Source\\UserService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:17:47.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Source\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\JwtTokenService.cs",
+              "RelativeToolTip": "Source\\JwtTokenService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:09:21.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Source\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Source\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:18:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "Source\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "Source\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:09:55.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:37:54.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "BuyTicketViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\BuyTicketViewModel.cs",
               "RelativeDocumentMoniker": "Models\\BuyTicketViewModel.cs",
@@ -198,48 +488,142 @@
               "RelativeToolTip": "Models\\BuyTicketViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T12:36:54.135Z"
+              "WhenOpened": "2024-06-12T12:36:54.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
+              "Title": "AddFlightViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\AddFlightViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AddFlightViewModel.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\AddFlightViewModel.cs",
+              "RelativeToolTip": "Models\\AddFlightViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:37:52.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240611154405_v1.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Migrations\\20240611154405_v1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240611154405_v1.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Migrations\\20240611154405_v1.cs",
+              "RelativeToolTip": "Migrations\\20240611154405_v1.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:44:05.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:12:49.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Controllers\\TicketController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:44:06.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:14:08.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAWwBcAAABKAAAA",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAIwKUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T15:14:16.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TicketDto.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\TicketDto.cs",
-              "RelativeDocumentMoniker": "Models\\Dto\\TicketDto.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\TicketDto.cs",
-              "RelativeToolTip": "Models\\Dto\\TicketDto.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAArAAAA",
+              "DocumentIndex": 29,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "Controllers\\FlightController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAkwBcAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:29:09.719Z"
+              "WhenOpened": "2024-06-11T16:37:08.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TicketHistory.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\TicketHistory.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\TicketHistory.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\TicketHistory.cshtml",
-              "RelativeToolTip": "Views\\Account\\TicketHistory.cshtml",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T09:28:16.823Z"
+              "DocumentIndex": 30,
+              "Title": "FlightFilterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\FlightFilterViewModel.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterViewModel.cs",
+              "RelativeToolTip": "Models\\FlightFilterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:34:22.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 31,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:43:24.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FlightFilterModel.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterModel.cs",
+              "RelativeDocumentMoniker": "Models\\FlightFilterModel.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterModel.cs",
+              "RelativeToolTip": "Models\\FlightFilterModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:09:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "TicketViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\TicketViewModel.cs",
               "RelativeDocumentMoniker": "Models\\TicketViewModel.cs",
@@ -251,70 +635,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABoAAAA",
+              "DocumentIndex": 34,
+              "Title": "TicketDto.cs",
+              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\TicketDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto\\TicketDto.cs",
+              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\TicketDto.cs",
+              "RelativeToolTip": "Models\\Dto\\TicketDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:13:19.14Z"
+              "WhenOpened": "2024-06-12T09:29:09.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-11T15:15:03.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TicketController.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\TicketController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TicketController.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\TicketController.cs",
-              "RelativeToolTip": "Controllers\\TicketController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T11:44:06.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BuyTicket.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Ticket\\BuyTicket.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ticket\\BuyTicket.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Ticket\\BuyTicket.cshtml",
-              "RelativeToolTip": "Views\\Ticket\\BuyTicket.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T11:44:36.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FlightController.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\FlightController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FlightController.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\FlightController.cs",
-              "RelativeToolTip": "Controllers\\FlightController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAgwFcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:37:08.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 35,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "Models\\Dto\\UserDto.cs",
@@ -326,19 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:24:32.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 36,
               "Title": "FlightDto.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\Dto\\FlightDto.cs",
               "RelativeDocumentMoniker": "Models\\Dto\\FlightDto.cs",
@@ -350,92 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddFlightViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\AddFlightViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\AddFlightViewModel.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\AddFlightViewModel.cs",
-              "RelativeToolTip": "Models\\AddFlightViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:37:52.276Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:14:08.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FlightFilterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\FlightFilterViewModel.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterViewModel.cs",
-              "RelativeToolTip": "Models\\FlightFilterViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T04:34:22.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:23:38.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:24:24.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Flights.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\Flights.cshtml",
-              "RelativeDocumentMoniker": "Views\\Flight\\Flights.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\Flights.cshtml",
-              "RelativeToolTip": "Views\\Flight\\Flights.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEgAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-12T04:12:37.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AddFlight.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\AddFlight.cshtml",
-              "RelativeDocumentMoniker": "Views\\Flight\\AddFlight.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Flight\\AddFlight.cshtml",
-              "RelativeToolTip": "Views\\Flight\\AddFlight.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADsAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T16:40:34.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -447,31 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:15:28.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_FlightPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_FlightPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_FlightPartial.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_FlightPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_FlightPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T18:33:54.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -483,115 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:23:48.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FlightFilterModel.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterModel.cs",
-              "RelativeDocumentMoniker": "Models\\FlightFilterModel.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\FlightFilterModel.cs",
-              "RelativeToolTip": "Models\\FlightFilterModel.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T04:09:54.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "Models\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:43:24.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T16:37:54.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:12:49.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\UserService.cs",
-              "RelativeDocumentMoniker": "Source\\UserService.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\UserService.cs",
-              "RelativeToolTip": "Source\\UserService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:17:47.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\JwtTokenService.cs",
-              "RelativeDocumentMoniker": "Source\\JwtTokenService.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\JwtTokenService.cs",
-              "RelativeToolTip": "Source\\JwtTokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:09:21.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IJwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IJwtTokenService.cs",
-              "RelativeDocumentMoniker": "Source\\Interfaces\\IJwtTokenService.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IJwtTokenService.cs",
-              "RelativeToolTip": "Source\\Interfaces\\IJwtTokenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:09:55.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Source\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Source\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Source\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T03:18:50.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -603,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Models\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
@@ -615,31 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:23:46.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "20240611154405_v1.cs",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Migrations\\20240611154405_v1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240611154405_v1.cs",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Migrations\\20240611154405_v1.cs",
-              "RelativeToolTip": "Migrations\\20240611154405_v1.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T15:44:05.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "20240611152927_v1.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\Migrations\\20240611152927_v1.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240611152927_v1.cs",
@@ -650,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "20240611153036_v1.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\Migrations\\20240611153036_v1.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240611153036_v1.cs",
@@ -661,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -673,43 +753,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:25:00.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:25:08.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T15:25:03.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "20240611151648_FEv1.cs",
               "DocumentMoniker": "C:\\Users\\kaanb\\source\\repos\\AirlineTicketingSystemWebApp\\Data\\Migrations\\20240611151648_FEv1.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\20240611151648_FEv1.cs",
